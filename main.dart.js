@@ -17845,9 +17845,9 @@ if(h==null){h=new G.l8()
 h.lw()
 $.hg=h}h=h.a
 P.dR(i+H.c(J.a7(h.gla(h).gfG(),"content-type")))}i=b.i(0,"businessId")
-b.m(0,"businessId",i==null?2:i)
+b.m(0,"businessId",i==null?3:i)
 i=b.i(0,"storeId")
-b.m(0,"storeId",i==null?0:i)
+b.m(0,"storeId",i==null?3:i)
 i=$.hg
 if(i==null){i=new G.l8()
 i.lw()
@@ -77733,7 +77733,7 @@ lw:function(){var s=new U.a4E($,new L.LA(H.a([],t.lC),new L.zx(),new L.zx(),new 
 s.o6$=r
 s.OJ$=new B.a1I(H.a([],t.Hh))
 this.a=s
-s.gla(s).rb$="http://119.29.193.85:37005/"
+s.gla(s).rb$="https://api-new.dudutalk.com/app/"
 s=this.a
 s.gla(s).rd$=5000
 s=this.a
