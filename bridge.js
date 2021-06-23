@@ -1,5 +1,5 @@
 
 function getUserToken() {
 	//return "test_123456";
-	return "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc0lkIjoyLCJlbnYiOiJURVNUIiwiZXhwaXJlZFRpbWUiOjE2MjQ5NDYyNzksInJvbGUiOjAsInN0YWZmSWQiOjksInN0b3JlSWQiOjN9.MoVq25Mv7rvjijhMyW8iacUpvgLXRraaqBkWIfxEVdc";
+	return "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidXNpbmVzc0lkIjoyLCJlbnYiOiJURVNUIiwiZXhwaXJlZFRpbWUiOjE2MjUwMTg4NjAsInJvbGUiOjAsInN0YWZmSWQiOjksInN0b3JlSWQiOjN9.jYyLd0X4bxNP13uhBvX3lAbo_2ALEefMgolWqeCDdg0";
 }
